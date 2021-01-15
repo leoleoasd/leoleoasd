@@ -37,3 +37,4 @@ jobs:
           # ... other options
           plugin_projects: yes
           plugin_projects_limit: 4
+          plugin_projects_repositories: leoleoasd/EduOJBackend/projects/1
