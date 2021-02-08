@@ -1022,7 +1022,7 @@
               <section>
                 <div class="field">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/></svg>
-                  Updated less than 1 day ago
+                  Updated 1 day ago
                 </div>
               </section>
               
@@ -2077,6 +2077,39 @@
                 
                 
                 
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">leoleoasd/EduOJBackend</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">dev/judger</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#ce03c5c</div>
+                        <div class="message">Add script update time to getTask's response.</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
                 
                 
                   <div class="field">
@@ -2178,39 +2211,6 @@ because we can't use redis while testing.</div>
               </section>
             </div>
           
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">leoleoasd/EduOJBackend</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">dev/judger</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#e14bd07</div>
-                        <div class="message">change compare script id to name</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-              </section>
-            </div>
-          
         
       </section>
     </div>
@@ -2228,7 +2228,7 @@ because we can't use redis while testing.</div>
           
             <span>These metrics do not include all private contributions, timezone Asia/Shanghai</span>
           
-          <span>Last updated Mon, 08 Feb 2021 13:19:27 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Mon, 08 Feb 2021 14:20:13 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
