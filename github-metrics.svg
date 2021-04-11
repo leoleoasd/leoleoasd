@@ -2801,7 +2801,7 @@ Move log model to a separate package to avoid import cycle.
                     These metrics do not include all private contributions, timezone Asia/Shanghai
                 </span>
                 <span>
-                    Last updated Sun, 11 Apr 2021 03:12:24 GMT with lowlighter/metrics@3.6.0
+                    Last updated Sun, 11 Apr 2021 04:08:07 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
