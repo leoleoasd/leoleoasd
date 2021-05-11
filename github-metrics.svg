@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="content">
                       Deleted
-                      branch <span class="code">overleaf-2021-05-06-1257</span> in <span class="repo">bjut-acm/latex-template</span>
+                      branch  <span class="code">overleaf-2021-05-06-1257</span> in  <span class="repo">bjut-acm/latex-template</span>
                     </div>
                                 </div>
                             </section>
@@ -2465,7 +2465,7 @@
                                     </svg>
                                     <div class="content">
                       Created new
-                      branch <span class="code">overleaf-2021-05-06-1257</span> in <span class="repo">bjut-acm/latex-template</span>
+                      branch  <span class="code">overleaf-2021-05-06-1257</span> in  <span class="repo">bjut-acm/latex-template</span>
                     </div>
                                 </div>
                             </section>
@@ -2497,7 +2497,7 @@
                                     </svg>
                                     <div class="content">
                       Created new
-                      branch <span class="code">master</span> in <span class="repo">bjut-acm/latex-template</span>
+                      branch  <span class="code">master</span> in  <span class="repo">bjut-acm/latex-template</span>
                     </div>
                                 </div>
                             </section>
@@ -2507,7 +2507,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone Asia/Shanghai</span>
-                <span>Last updated Tue, 11 May 2021 16:40:30 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Tue, 11 May 2021 17:47:05 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
