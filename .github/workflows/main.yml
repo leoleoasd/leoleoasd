@@ -37,5 +37,4 @@ jobs:
           # ... other options
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_projects_repositories: 
-            - EduOJ/backend/projects/1
+          plugin_projects_repositories: EduOJ/backend/projects/1
