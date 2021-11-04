@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1386" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1357" class="">
     <defs>
         <style/>
     </defs>
@@ -1670,7 +1670,6 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="">qemu</div>
                         </div>
                     </section>
                 </div>
@@ -2846,7 +2845,7 @@ Signed-off-by: Leo Lu &lt;luyuxuanleo@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Nov 2021, 14:24:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 4 Nov 2021, 15:19:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
