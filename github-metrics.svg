@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3454 Commits
+                            3455 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="245.2645705125171" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="245.2645705125171" y="0" width="59.60501686595199" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="304.8695873784691" y="0" width="44.182614660458825" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="349.0522020389279" y="0" width="36.757831475385935" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="385.81003351431383" y="0" width="25.919742438608317" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="411.7297759529222" y="0" width="17.98199061207549" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="429.7117665649976" y="0" width="17.057833814479423" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="446.769600379477" y="0" width="13.23039962052288" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="244.91042461279739" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="244.91042461279739" y="0" width="59.51895114401875" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="304.42937575681617" y="0" width="44.118817872409885" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="348.54819362922603" y="0" width="37.36896531448175" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="385.91715894370776" y="0" width="25.882316036224783" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="411.7994749799326" y="0" width="17.956025800970654" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="429.7555007809032" y="0" width="17.033203424974424" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="446.78870420587765" y="0" width="13.211295794122389" height="8" fill="#0298c3"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1516,6 +1516,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">leoleoasd/notes</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d98396c</div>
+                                        <div class="message">Update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="content">
@@ -1575,26 +1595,6 @@ Signed-off-by: Leo Lu &lt;luyuxuanleo@gmail.com&gt;</div>
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">rust-lang/rust</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">leoleoasd/ptranse</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5418363</div>
-                                        <div class="message">Slow implement</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1662,7 +1662,7 @@ Signed-off-by: Leo Lu &lt;luyuxuanleo@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Mar 2022, 10:45:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 3 Mar 2022, 11:23:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
