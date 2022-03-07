@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3467 Commits
+                            3468 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="244.722327723643" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="244.722327723643" y="0" width="59.47323920842589" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="304.1955669320689" y="0" width="44.084933596523754" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="348.28050052859265" y="0" width="37.674268332381445" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="385.9547688609741" y="0" width="25.881725240648404" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="411.8364941016225" y="0" width="17.94223515649287" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="429.7787292581154" y="0" width="17.020121529495146" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="446.79885078761055" y="0" width="13.20114921238949" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="244.60519580778663" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="244.60519580778663" y="0" width="59.4447734181751" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="304.0499692259617" y="0" width="44.06383314042482" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="348.11380236638655" y="0" width="37.876406905211354" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="385.9902092715979" y="0" width="25.869337420986405" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="411.85954669258433" y="0" width="17.93364743015758" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="429.79319412274185" y="0" width="17.01197515616909" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="446.80516927891097" y="0" width="13.19483072108902" height="8" fill="#0298c3"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1501,6 +1501,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">leoleoasd/notes</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#90b037e</div>
+                                        <div class="message">Add SE</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -1557,31 +1577,6 @@
                                 <div class="details">
                                     <div>opened by littlebear0729 in <span class="repo">EduOJ/backend</span></div>
                                     <div>33 files changed <span class="code">++2873 --80</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">EduOJ/backend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#01254c4</div>
-                                        <div class="message">Merge branch 'dev/email_module'
-
-This commit adds email verification and reset password feature.
-See #120
-
-Signed-off-by: Leo Lu &lt;luyuxuanleo@gmail.com&gt;</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1649,7 +1644,7 @@ Signed-off-by: Leo Lu &lt;luyuxuanleo@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Mar 2022, 11:21:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 7 Mar 2022, 12:26:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
