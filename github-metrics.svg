@@ -1647,7 +1647,7 @@ init函数需要初始化内核用的页表</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2022, 15:21:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 16:29:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
