@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1479" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1550" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            286 issue comments
+                            290 issue comments
                         </div>
                     </section>
                     <section>
@@ -1478,58 +1478,32 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">leoleoasd/lightning</span>
+                                        Commented on
+                                        <span class="issue">#15413 Fix use path in fs.listdir in checkpoint (#15379)</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a259b0a</div>
-                                        <div class="message">Fix tests in windows</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">leoleoasd/lightning</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3bbf2f1</div>
-                                        <div class="message">Fix tests</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">leoleoasd/lightning</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b240411</div>
-                                        <div class="message">Fix tests</div>
+                                    <div>opened by leoleoasd in <span class="repo">Lightning-AI/lightning</span></div>
+                                    <div class="comment">
+                                        Do we actually have any tests for remote file systems? Did anyone try running lightning apps locally with file:// or local://? I don't see any tests in #3805 and #2164.
+
+I don't know how we organize tests here (for example, what kind of tests should be in app/lightning/pytorch), but there aren't any string that contains protocol other than HTTP or HTTPS in all PyTorch tests (apart from what I just added).
+I added a test that uses fsspec's in-memory file system, and other things related to the test (_hpc_resume_path) are broken too.
+I think we DO need to change EVERY usage of fsspec and every path-related function which path may be passed into fsspec.
+For example,
+                                        <code>os.path.join</code>
+                                        is used multiple times in the code base. But we should use
+                                        <code>fs.sep</code>
+                                        instead of the OS path separator, since we may need to access s3fs from windows, and
+                                        <code>os.path.join</code>
+                                        will try to use
+                                        <code>\</code>
+                                        for S3FS paths on windows.
+According to fsspec's document, it seems that it supports both \ and / on windows, but all FS have / as sep.
+https://filesystem-spec.readthedocs.io/en/latest/_modules/fsspec/implementations/local.html?highlight=windows#
                                     </div>
                                 </div>
                             </section>
@@ -1542,21 +1516,69 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#15413 Fix use path in fs.listdir in checkpoint (#15379)</span>
+                                        <span class="issue">#15425 Use sys.__stdout__ for terminal encoding check</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by leoleoasd in <span class="repo">Lightning-AI/lightning</span></div>
+                                    <div>opened by nihir27 in <span class="repo">Lightning-AI/lightning</span></div>
+                                    <div class="comment">Sorry, I opened too many browser pages, The above two comments should be moved to #15413</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#15425 Use sys.__stdout__ for terminal encoding check</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by nihir27 in <span class="repo">Lightning-AI/lightning</span></div>
                                     <div class="comment">
-                                        Do we actually have any tests for remote file systems? Did anyone try running lightning apps locally with
-                                        <code>file://</code>
-                                        or
-                                        <code>local://</code>
-                                        ? I don't see any tests in #3805 and #2164.
+                                        Just checked fsspec's document, it seems that it supports both
+                                        <code>\</code>
+                                        and
+                                        <code>/</code>
+                                        on windows, but all FS have
+                                        <code>/</code>
+                                        as sep.
+https://filesystem-spec.readthedocs.io/en/latest/_modules/fsspec/implementations/local.html?highlight=windows#
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#15425 Use sys.__stdout__ for terminal encoding check</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by nihir27 in <span class="repo">Lightning-AI/lightning</span></div>
+                                    <div class="comment">
+                                        Do we actually have any tests for remote file systems? Did anyone try running lightning apps locally with file:// or local://? I don't see any tests in #3805 and #2164.
 
-There aren't any string that contains protocol other than HTTP or HTTPS in all PyTorch tests (apart from what I just added).
+I don't know how we organize tests here (for example, what kind of tests should be in app/lightning/pytorch), but there aren't any string that contains protocol other than HTTP or HTTPS in all PyTorch tests (apart from what I just added).
 I added a test that uses fsspec's in-memory file system, and other things related to the test (_hpc_resume_path) are broken too.
-I think we DO need to change EVERY usage of fsspec.
+I think we DO need to change EVERY usage of fsspec and every path-related function which path may be passed into fsspec.
+For example,
+                                        <code>os.path.join</code>
+                                        is used multiple times in the code base. But we should use
+                                        <code>fs.sep</code>
+                                        instead of the OS path separator, since we may need to access s3fs from windows, and
+                                        <code>os.path.join</code>
+                                        will try to use
+                                        <code>\</code>
+                                        for S3FS paths on windows.
                                     </div>
                                 </div>
                             </section>
@@ -1575,8 +1597,8 @@ I think we DO need to change EVERY usage of fsspec.
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f67c319</div>
-                                        <div class="message">path instead of url in fs.isdir</div>
+                                        <div class="sha">#e159af7</div>
+                                        <div class="message">Fix windows sep</div>
                                     </div>
                                 </div>
                             </section>
@@ -1640,7 +1662,7 @@ I think we DO need to change EVERY usage of fsspec.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Nov 2022, 20:49:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 3 Nov 2022, 21:48:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
