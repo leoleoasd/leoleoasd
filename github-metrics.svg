@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1475" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1539" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{display:inline-block}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{display:inline-block}.token.comment{color:#690}.token.number{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            331 issue comments
+                            336 issue comments
                         </div>
                     </section>
                     <section>
@@ -1472,84 +1472,336 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#15728 Switch from tensorboard to tensorboardx in logger</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by lantiga in <span class="repo">Lightning-AI/lightning</span></div>
-                                    <div class="comment">This PR breaks remote file system support as it seems tensorboardX doesn't support fsspec.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#1146 Support seekable reading on pyarrow fs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">fsspec/filesystem_spec</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1146 Support seekable reading on pyarrow fs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by leoleoasd in <span class="repo">fsspec/filesystem_spec</span></div>
-                                    <div class="comment">Already fixed in #1091. Missed that</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#73487 PyTorch not recognizing GPU on WSL - installed cudnn and cuda</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AH-Merii in <span class="repo">pytorch/pytorch</span></div>
-                                    <div class="comment">
-                                        From my side, sometimes installing from conda doesn't work, but installing from pip works. Make sure to use CUDA version greater or equal than the one shown in
-                                        <code>nvidia-smi</code>
-                                        .
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
                                         <span class="issue">#16303 RuntimeError: Found dtype Half but expected Float in optimizer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">Lightning-AI/lightning</span></div>
+                                    <div>opened by leoleoasd in <span class="repo">Lightning-AI/lightning</span></div>
+                                    <div class="comment">
+                                        I think the latest version of PL should support a variety of versions of torch right?
+I used
+                                        <code>pip install torch==1.12.1+cu116 torchvision==0.13.1+cu116 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu116</code>
+                                        to install pytorch
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#16303 RuntimeError: Found dtype Half but expected Float in optimizer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by leoleoasd in <span class="repo">Lightning-AI/lightning</span></div>
+                                    <div class="comment">
+                                        <b>
+                                            latest master (1.9.0rc0, f24349bb64fd1724f294912b47e5f4f0bd71cde2):
+```
+1.9.0rc0
+Using 16bit None Automatic Mixed Precision (AMP)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/utilities.py:94: PossibleUserWarning:
+                                            <code>max_epochs</code>
+                                            was not set. Setting it to 1000 epochs. To train without an epoch limit, set
+                                            <code>max_epochs=-1</code>
+                                            .
+  rank_zero_warn(
+Initializing distributed: GLOBAL_RANK: 0, MEMBER: 1/1
+                                        </b>
+                                        <b>distributed_backend=nccl
+All distributed processes registered. Starting with 1 processes</b>
+                                        You are using a CUDA device ('NVIDIA GeForce RTX 3090') that has Tensor Cores. To properly utilize them, you should set
+                                        <code>torch.set_float32_matmul_precision('medium' | 'high')</code>
+                                        which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+FullyShardedDataParallel(
+  world_size=1, flatten_parameters=True, mixed_precision=True,
+  (_fsdp_wrapped_module): FlattenParamsWrapper(
+    (_fpw_module): _DDPFullyShardedStrategyModuleWrapper(
+      (_forward_module): LitAutoEncoder(
+        (encoder): Sequential(
+          (0): Linear(in_features=784, out_features=6400, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=6400, out_features=6400, bias=True)
+          (3): ReLU()
+          (4): Linear(in_features=6400, out_features=3, bias=True)
+        )
+        (decoder): Sequential(
+          (0): Linear(in_features=3, out_features=64, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=64, out_features=784, bias=True)
+        )
+      )
+    )
+  )
+)
+                                        <b>  | Name    | Type       | Params</b>
+                                        <b>0 | encoder | Sequential | 0
+1 | decoder | Sequential | 0</b>
+                                        0         Trainable params
+0         Non-trainable params
+0         Total params
+0.000     Total estimated model params size (MB)
+/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/data_connector.py:224: PossibleUserWarning: The dataloader, train_dataloader, does not have many workers which may be a bottleneck. Consider increasing the value of the
+                                        <code>num_workers</code>
+                                        argument
+                                        <code>(try 32 which is the number of cpus on this machine) in the</code>
+                                        DataLoader` init to improve performance.
+  rank_zero_warn(
+Training: 0it [00:00, ?it/s]
+Epoch 0:   0%|                                                                                                                                                               | 0/1875 [00:00
+    trainer.fit(model=autoencoder, train_dataloaders=train_loader)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 608, in fit
+    call._call_and_handle_interrupt(
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/call.py", line 36, in _call_and_handle_interrupt
+    return trainer.strategy.launcher.launch(trainer_fn, *args, trainer=trainer, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/strategies/launchers/subprocess_script.py", line 88, in launch
+    return function(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 650, in _fit_impl
+    self._run(model, ckpt_path=self.ckpt_path)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 1103, in _run
+    results = self._run_stage()
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 1182, in _run_stage
+    self._run_train()
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 1205, in _run_train
+    self.fit_loop.run()
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/loop.py", line 199, in run
+    self.advance(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/fit_loop.py", line 267, in advance
+    self._outputs = self.epoch_loop.run(self._data_fetcher)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/loop.py", line 199, in run
+    self.advance(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/epoch/training_epoch_loop.py", line 213, in advance
+    batch_output = self.batch_loop.run(kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/loop.py", line 199, in run
+    self.advance(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/batch/training_batch_loop.py", line 88, in advance
+    outputs = self.optimizer_loop.run(optimizers, kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/loop.py", line 199, in run
+    self.advance(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/optimization/optimizer_loop.py", line 202, in advance
+    result = self._run_optimization(kwargs, self._optimizers[self.optim_progress.optimizer_position])
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/optimization/optimizer_loop.py", line 249, in _run_optimization
+    self._optimizer_step(optimizer, opt_idx, kwargs.get("batch_idx", 0), closure)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/optimization/optimizer_loop.py", line 370, in _optimizer_step
+    self.trainer._call_lightning_module_hook(
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 1347, in _call_lightning_module_hook
+    output = fn(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/core/module.py", line 1715, in optimizer_step
+    optimizer.step(closure=optimizer_closure)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/core/optimizer.py", line 169, in step
+    step_output = self._strategy.optimizer_step(self._optimizer, self._optimizer_idx, closure, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/strategies/ddp.py", line 280, in optimizer_step
+    optimizer_output = super().optimizer_step(optimizer, opt_idx, closure, model, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/strategies/strategy.py", line 234, in optimizer_step
+    return self.precision_plugin.optimizer_step(
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/plugins/precision/native_amp.py", line 88, in optimizer_step
+    step_output = self.scaler.step(optimizer, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/fairscale/optim/grad_scaler.py", line 317, in step
+    retval = self._maybe_opt_step(optimizer, optimizer_state, *args, **kwargs)  # type: ignore
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/cuda/amp/grad_scaler.py", line 285, in _maybe_opt_step
+    retval = optimizer.step(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/optim/lr_scheduler.py", line 65, in wrapper
+    return wrapped(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/optim/optimizer.py", line 113, in wrapper
+    return func(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/optim/adamw.py", line 161, in step
+    adamw(params_with_grad,
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/optim/adamw.py", line 218, in adamw
+    func(params,
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/optim/adamw.py", line 267, in _single_tensor_adamw
+    exp_avg_sq.mul_(beta2).addcmul_(grad, grad, value=1 - beta2)
+RuntimeError: Found dtype Half but expected Float
+```
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#16303 RuntimeError: Found dtype Half but expected Float in optimizer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by leoleoasd in <span class="repo">Lightning-AI/lightning</span></div>
+                                    <div class="comment">
+                                        <b>
+                                            1.8.6: (the first line is
+                                            <code>print(pl.__version__)</code>
+                                            )
+```
+1.8.6
+Using 16bit native Automatic Mixed Precision (AMP)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/utilities.py:94: PossibleUserWarning:
+                                            <code>max_epochs</code>
+                                            was not set. Setting it to 1000 epochs. To train without an epoch limit, set
+                                            <code>max_epochs=-1</code>
+                                            .
+  rank_zero_warn(
+Initializing distributed: GLOBAL_RANK: 0, MEMBER: 1/1
+                                        </b>
+                                        <b>distributed_backend=nccl
+All distributed processes registered. Starting with 1 processes</b>
+                                        LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+When using FairScale FSDP auto-wrap, make sure to initialize your model using trainer:
+                                        <code>torch.optim.Optimizer(self.trainer.model.parameters(), ...)</code>
+                                        FullyShardedDataParallel(
+  world_size=1, flatten_parameters=True, mixed_precision=True,
+  (_fsdp_wrapped_module): FlattenParamsWrapper(
+    (_fpw_module): _DDPFullyShardedStrategyModuleWrapper(
+      (_forward_module): LitAutoEncoder(
+        (encoder): Sequential(
+          (0): Linear(in_features=784, out_features=6400, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=6400, out_features=6400, bias=True)
+          (3): ReLU()
+          (4): Linear(in_features=6400, out_features=3, bias=True)
+        )
+        (decoder): Sequential(
+          (0): Linear(in_features=3, out_features=64, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=64, out_features=784, bias=True)
+        )
+      )
+    )
+  )
+)
+                                        <b>  | Name    | Type       | Params</b>
+                                        <b>0 | encoder | Sequential | 0
+1 | decoder | Sequential | 0</b>
+                                        0         Trainable params
+0         Non-trainable params
+0         Total params
+0.000     Total estimated model params size (MB)
+/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/connectors/data_connector.py:224: PossibleUserWarning: The dataloader, train_dataloader, does not have many workers which may be a bottleneck. Consider increasing the value of the
+                                        <code>num_workers</code>
+                                        argument
+                                        <code>(try 32 which is the number of cpus on this machine) in the</code>
+                                        DataLoader` init to improve performance.
+  rank_zero_warn(
+Training: 0it [00:00, ?it/s]
+Epoch 0:   0%|                                                                                                                                                               | 0/1875 [00:00
+    trainer.fit(model=autoencoder, train_dataloaders=train_loader)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 603, in fit
+    call._call_and_handle_interrupt(
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/call.py", line 36, in _call_and_handle_interrupt
+    return trainer.strategy.launcher.launch(trainer_fn, *args, trainer=trainer, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/strategies/launchers/subprocess_script.py", line 90, in launch
+    return function(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 645, in _fit_impl
+    self._run(model, ckpt_path=self.ckpt_path)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 1098, in _run
+    results = self._run_stage()
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 1177, in _run_stage
+    self._run_train()
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 1200, in _run_train
+    self.fit_loop.run()
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/loop.py", line 199, in run
+    self.advance(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/fit_loop.py", line 267, in advance
+    self._outputs = self.epoch_loop.run(self._data_fetcher)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/loop.py", line 199, in run
+    self.advance(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/epoch/training_epoch_loop.py", line 214, in advance
+    batch_output = self.batch_loop.run(kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/loop.py", line 199, in run
+    self.advance(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/batch/training_batch_loop.py", line 88, in advance
+    outputs = self.optimizer_loop.run(optimizers, kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/loop.py", line 199, in run
+    self.advance(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/optimization/optimizer_loop.py", line 200, in advance
+    result = self._run_optimization(kwargs, self._optimizers[self.optim_progress.optimizer_position])
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/optimization/optimizer_loop.py", line 247, in _run_optimization
+    self._optimizer_step(optimizer, opt_idx, kwargs.get("batch_idx", 0), closure)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/loops/optimization/optimizer_loop.py", line 357, in _optimizer_step
+    self.trainer._call_lightning_module_hook(
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/trainer/trainer.py", line 1342, in _call_lightning_module_hook
+    output = fn(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/core/module.py", line 1661, in optimizer_step
+    optimizer.step(closure=optimizer_closure)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/core/optimizer.py", line 169, in step
+    step_output = self._strategy.optimizer_step(self._optimizer, self._optimizer_idx, closure, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/strategies/ddp.py", line 281, in optimizer_step
+    optimizer_output = super().optimizer_step(optimizer, opt_idx, closure, model, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/strategies/strategy.py", line 234, in optimizer_step
+    return self.precision_plugin.optimizer_step(
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/pytorch_lightning/plugins/precision/native_amp.py", line 98, in optimizer_step
+    step_output = self.scaler.step(optimizer, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/fairscale/optim/grad_scaler.py", line 317, in step
+    retval = self._maybe_opt_step(optimizer, optimizer_state, *args, **kwargs)  # type: ignore
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/cuda/amp/grad_scaler.py", line 285, in _maybe_opt_step
+    retval = optimizer.step(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/optim/lr_scheduler.py", line 65, in wrapper
+    return wrapped(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/optim/optimizer.py", line 113, in wrapper
+    return func(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/optim/adamw.py", line 161, in step
+    adamw(params_with_grad,
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/optim/adamw.py", line 218, in adamw
+    func(params,
+  File "/home/leo/anaconda3/envs/torch/lib/python3.10/site-packages/torch/optim/adamw.py", line 267, in _single_tensor_adamw
+    exp_avg_sq.mul_(beta2).addcmul_(grad, grad, value=1 - beta2)
+RuntimeError: Found dtype Half but expected Float
+```
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#16303 RuntimeError: Found dtype Half but expected Float in optimizer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by leoleoasd in <span class="repo">Lightning-AI/lightning</span></div>
+                                    <div class="comment">Trying installing from master</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#16303 RuntimeError: Found dtype Half but expected Float in optimizer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by leoleoasd in <span class="repo">Lightning-AI/lightning</span></div>
+                                    <div class="comment">Yes, 1.8.6 still has this error. Haven't tried from master though</div>
                                 </div>
                             </section>
                         </div>
@@ -1607,7 +1859,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jan 2023, 19:16:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 10 Jan 2023, 20:37:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
