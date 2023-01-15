@@ -1568,13 +1568,18 @@ texcount问题请按照 这里 提交日志</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">lightning</span>
-                                <div class="bar" style="width: 48.36%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 48.19200000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">60%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">test</span>
-                                <div class="bar" style="width: 31.639999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">40%</span>
+                                <div class="bar" style="width: 31.536%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">homepage</span>
+                                <div class="bar" style="width: 0.27999999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -1582,7 +1587,7 @@ texcount问题请按照 这里 提交日志</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2023, 00:23:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 16 Jan 2023, 01:16:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
