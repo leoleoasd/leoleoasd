@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1687" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1436" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            360 issue comments
+                            361 issue comments
                         </div>
                     </section>
                     <section>
@@ -1441,6 +1441,38 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#72 添加GDB Debug大致流程</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by leoleoasd in <span class="repo">rcore-os/rCore-Tutorial-Book-v3</span></div>
+                                    <div class="comment">
+                                        抱歉，过的有点久，我可能不能完整回忆了；你可以试试：
+
+如果qemu用的是gdb启动，在gdb连接前应该不会开始运行，可以用于判断qemu是否配置正确
+可以用命令行手动调用gdb试试，印象里
+                                        <code>target remote</code>
+                                        后也是需要手动
+                                        <code>continue</code>
+                                        还是啥来着，来继续运行，在运行开始前可以用
+                                        <code>l</code>
+                                        看看是否能正确看到源代码，以及用
+                                        <code>b _rust_main</code>
+                                        看看能不能正确找到断点
+如果上面成功、且能看到rust源代码（而不是机器语言parse出的汇编），那应该就是ide配置问题，否则就是gdb的配置（如 directory mapping）啥的
+同时可以参考这个： https://leoleoasd.me/2020/11/08/debug-pintos-in-clion/ 是配置调试另一个操作系统实验（PintOS）的gdb的过程，你可以参考一下
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1504,217 +1536,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 18 commits in
-                                        <span class="repo">leoleoasd/kanidm</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5948f99</div>
-                                        <div class="message">Merge ssh with unixd; update CI to build for multiple os versions; upload packages to artifacts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8231c73</div>
-                                        <div class="message">Fix simple_pkg.sh &amp; add pam nss instructions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3d1f1c</div>
-                                        <div class="message">Use standard way to install pam config</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff84af6</div>
-                                        <div class="message">Fix debian &amp; ubuntu packaging</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#100b4db</div>
-                                        <div class="message">Update CONTRIBUTORS</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5164d9e</div>
-                                        <div class="message">Fix trailing slash</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e6e482</div>
-                                        <div class="message">Fix debian build path</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c63dc1f</div>
-                                        <div class="message">chore(deps): bump gloo-net from 0.2.5 to 0.2.6 (#1338)
-
-Bumps [gloo-net](https://github.com/rustwasm/gloo) from 0.2.5 to 0.2.6.
-- [Release notes](https://github.com/rustwasm/gloo/releases)
-- [Changelog](https://github.com/rustwasm/gloo/blob/master/release.toml)
-- [Commits](https://github.com/rustwasm/gloo/compare/gloo-net-v0.2.5...gloo-net-v0.2.6)
-
----
-updated-dependencies:
-- dependency-name: gloo-net
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4225ba9</div>
-                                        <div class="message">chore(deps-dev): bump mkdocstrings from 0.19.1 to 0.20.0 in /pykanidm (#1334)
-
-Bumps [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) from 0.19.1 to 0.20.0.
-- [Release notes](https://github.com/mkdocstrings/mkdocstrings/releases)
-- [Changelog](https://github.com/mkdocstrings/mkdocstrings/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/mkdocstrings/mkdocstrings/compare/0.19.1...0.20.0)
-
----
-updated-dependencies:
-- dependency-name: mkdocstrings
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#964853d</div>
-                                        <div class="message">making the robots easier and happier (#1343)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a92dfc8</div>
-                                        <div class="message">chore(deps): bump tokio from 1.24.1 to 1.24.2 (#1340)
-
-Bumps [tokio](https://github.com/tokio-rs/tokio) from 1.24.1 to 1.24.2.
-- [Release notes](https://github.com/tokio-rs/tokio/releases)
-- [Commits](https://github.com/tokio-rs/tokio/commits)
-
----
-updated-dependencies:
-- dependency-name: tokio
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#099adc3</div>
-                                        <div class="message">chore(deps): bump toml from 0.5.10 to 0.5.11 (#1337)
-
-Bumps [toml](https://github.com/toml-rs/toml) from 0.5.10 to 0.5.11.
-- [Release notes](https://github.com/toml-rs/toml/releases)
-- [Commits](https://github.com/toml-rs/toml/compare/toml-v0.5.10...toml-v0.5.11)
-
----
-updated-dependencies:
-- dependency-name: toml
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a17113</div>
-                                        <div class="message">chore(deps): bump proc-macro2 from 1.0.49 to 1.0.50 (#1332)
-
-Bumps [proc-macro2](https://github.com/dtolnay/proc-macro2) from 1.0.49 to 1.0.50.
-- [Release notes](https://github.com/dtolnay/proc-macro2/releases)
-- [Commits](https://github.com/dtolnay/proc-macro2/compare/1.0.49...1.0.50)
-
----
-updated-dependencies:
-- dependency-name: proc-macro2
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4752b6b</div>
-                                        <div class="message">chore(deps): bump reqwest from 0.11.13 to 0.11.14 (#1333)
-
-Bumps [reqwest](https://github.com/seanmonstar/reqwest) from 0.11.13 to 0.11.14.
-- [Release notes](https://github.com/seanmonstar/reqwest/releases)
-- [Changelog](https://github.com/seanmonstar/reqwest/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/seanmonstar/reqwest/compare/v0.11.13...v0.11.14)
-
----
-updated-dependencies:
-- dependency-name: reqwest
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e72d47</div>
-                                        <div class="message">chore(deps): bump async-trait from 0.1.61 to 0.1.62 (#1335)
-
-Bumps [async-trait](https://github.com/dtolnay/async-trait) from 0.1.61 to 0.1.62.
-- [Release notes](https://github.com/dtolnay/async-trait/releases)
-- [Commits](https://github.com/dtolnay/async-trait/compare/0.1.61...0.1.62)
-
----
-updated-dependencies:
-- dependency-name: async-trait
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec5e7ab</div>
-                                        <div class="message">2023 orca improve (#1342)
-
-* Improve orca
-* Add improved data generator, add some basic ipa support
-* (least) humble brag (ever) on readme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8255c93</div>
-                                        <div class="message">Adding healthcheck functionality to kanidmd (#1330)
-
-* closes #1220, adds healthcheck functionality to kanidmd
-
-* ssl is old and busted, tls is great</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#421344c</div>
-                                        <div class="message">less lint more bark, ruff ruff (#1341)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1774,7 +1595,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2023, 23:19:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 28 Jan 2023, 00:25:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
