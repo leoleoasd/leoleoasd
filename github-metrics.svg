@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2030" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1697" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 49 repositories
+                            Contributed to 50 repositories
                         </div>
                     </section>
                 </div>
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            41 Issues opened
+                            42 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1458,6 +1458,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#480 meteor don't works with latest datasets</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">huggingface/evaluate</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -1496,232 +1513,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">emeryberger/CSrankings</span></div>
                                     <div>1 file changed <span class="code">++1 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 123 commits in
-                                        <span class="repo">leoleoasd/CSrankings</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">gh-pages</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#207bbf1</div>
-                                        <div class="message">Update csrankings-k.csv, Added researchers. (#5684)
-
-* Add files via upload
-
-Update csrankings-k.csv. Added researcher.
-
-* Update csrankings-k.csv
-
-I changed the google scholar id</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef08f75</div>
-                                        <div class="message">Added PTIT.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb1477c</div>
-                                        <div class="message">Revert "Add an new institution from Vietnam, Asia and its faculties. (#5973)" (#5977)
-
-This reverts commit 3512666d143586bda282765d866471cf607063cd.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3512666</div>
-                                        <div class="message">Add an new institution from Vietnam, Asia and its faculties. (#5973)
-
-* Add an new  institution from Vietnam, Asia and its faculties..
-
-* Change "Posts and Telecommunications Institute of Technology" institution name into abbreviate "PTIT"
-
-* Change institution's name in country.csv into "PTIT"
-
-* Untick all "x" in contribute.md
-
----------
-
-Co-authored-by: Hungtran-pro &lt;trhun810@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75ec10a</div>
-                                        <div class="message">Updated.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ba10e1</div>
-                                        <div class="message">add new cs faculties in UCI (#5969)
-
-Co-authored-by: Emery Berger &lt;emery.berger@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#853f1df</div>
-                                        <div class="message">Remove ke-ren zhou entry (merged to keren zhou by DBLP) (#5972)
-
-Remove ke-ren zhou entry (DBLP has now correctly merged ke-ren and keren zhou into keren zhou)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d43038</div>
-                                        <div class="message">Adding faculty member from Shanghai Jiao Tong University -- Update csrankings-y.csv (#5937)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c48dc8c</div>
-                                        <div class="message">Update csrankings-j.csv ----- add Jianlei Yang to Beihang University (#5936)
-
-add Jianlei Yang to Beihang University</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c80f10</div>
-                                        <div class="message">Add faculty members to Sungkyunkwan University (follow-up of #5827) (#5926)
-
-* Add Sungkyunkwan University
-
-* Add faculty names starting with 'D' in SKKU
-
-* Add faculty names starting with 'E' in SKKU
-
-* Add faculty names starting with 'H' in SKKU
-
-* Add faculty names starting with 'J' in SKKU
-
-* Add faculty names starting with 'S' in SKKU
-
-* Add faculty names starting with 'T' in SKKU
-
-* Add faculty names starting with 'Y' in SKKU
-
-* Add faculty names starting with 'H' in SKKU
-
-* Update csrankings-j.csv
-
-Removed Jae-Hyun Hwang
-
-* Removed Jitae Shin
-
-* Removed Seokin Hong
-
-* Fixed urls (csrankings-y.csv)
-
-* Fixed urls (csrankings-t.csv)
-
-* Fixed urls (csrankings-s.csv)
-
-* Fixed Google Scholar Id
-
-* Removed Sukhan Lee
-
-* Added an alias for Sang-won Lee
-
-* Update csrankings-t.csv
-
-* Update csrankings-y.csv
-
----------
-
-Co-authored-by: Emery Berger &lt;emery.berger@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56d0961</div>
-                                        <div class="message">add CS professors at SYSU (#5967)
-
-* add CS professors at SYSU
-
-add CS professors at SYSU
-
-* add CS professors at SYSU
-
-add CS professors at SYSU
-
-* add CS professors at SYSU
-
-add CS professors at SYSU
-
-* add CS professors at SYSU
-
-add CS professors at SYSU</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95b934c</div>
-                                        <div class="message">Added two institutions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5ed181</div>
-                                        <div class="message">Adding Indian Institute of Technology (IIT) Jammu (#5959)
-
-* Adding IIT Jammu(Indian Institute of Technology Jammu)
-
-* Ading Faculties by Updating csrankings-(g h m p s v y).csv files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd53e54</div>
-                                        <div class="message">Add Wei Niu to University of Georgia (#5970)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc50207</div>
-                                        <div class="message">Merge branch 'gh-pages' of https://github.com/emeryberger/CSrankings into gh-pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3ec8f7</div>
-                                        <div class="message">Attempt to reduce 403 errors from web page lookups.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c01c804</div>
-                                        <div class="message">add new faculties in the Software Engineering Team of Zhejiang University (#5919)
-
-* add new faculties in the Software Engineering Team of Zhejiang University
-
-* Move Xin Xia from Monash University to Zhejiang University
-
-* change according to the request
-
-* move xin to industry.csv
-
-* remove Zhipeng Gao
-
-* format industry records for Xin Xia
-
----------
-
-Co-authored-by: Emery Berger &lt;emery.berger@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cdee75</div>
-                                        <div class="message">update Kejiang Ye with Chinese Academy of Sciences (#5958)
-
-* update Prof. Ye with Chinese Academy of Sciences
-
-* Revert "update Prof. Ye with Chinese Academy of Sciences"
-
-This reverts commit 2e3a9518a316f2e3134d7243ab10495fdabbab45.
-
-* update Kejiang Ye with Chinese Academy of Sciences
-
----------
-
-Co-authored-by: yanyinglin &lt;yanyingling&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d55f494</div>
-                                        <div class="message">Adding Rupeng Yang and Zuoxia Yu to University of Wollongong (#5965)
-
-* Adding Rupeng Yang and Zuoxia Yu to University of Wollongong
-
-* Adding Rupeng Yang and Zuoxia Yu to University of Wollongong
-
----------
-
-Co-authored-by: orbbyrp &lt;orbbyrp@iMac.local&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce93441</div>
-                                        <div class="message">add Long Chen, HKUST (#5964)</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2000,7 +1791,7 @@ Co-authored-by: orbbyrp &lt;orbbyrp@iMac.local&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Jul 2023, 20:36:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 Jul 2023, 21:21:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
