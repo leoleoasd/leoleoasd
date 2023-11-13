@@ -1567,12 +1567,12 @@ It seems like we won't have this API</i>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">naacl_2024_data_annotation_exp</span>
-                                <div class="bar" style="width: 76.96000000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 76.936%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">96%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">naacl_2024_data_annotation</span>
-                                <div class="bar" style="width: 3.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -1581,7 +1581,7 @@ It seems like we won't have this API</i>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Nov 2023, 00:16:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2023, 01:22:23 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
