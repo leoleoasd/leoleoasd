@@ -1556,7 +1556,7 @@ For example, in my case, the main body should be dark blue, which is A2 in my pr
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Aug 2024, 07:05:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2024, 08:08:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
