@@ -1575,7 +1575,7 @@ INFO 01-27 03:46:13 api_server.py:835] vLLM API server version 0.6.6.post2.dev38
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2025, 03:09:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2025, 04:07:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
