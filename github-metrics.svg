@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1413" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1396" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4587 Commits
+                            4588 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -321,14 +321,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.04296015964056" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="205.04296015964056" y="0" width="98.10725540652618" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="303.15021556616676" y="0" width="81.9480285574563" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.09824412362303" y="0" width="28.52252840081787" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="413.6207725244409" y="0" width="20.20979969152342" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="433.8305722159643" y="0" width="14.139304943435475" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="447.9698771593998" y="0" width="7.971551453459836" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.9414286128596" y="0" width="4.05857138714037" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.0428741687569" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="205.0428741687569" y="0" width="98.10721426232118" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="303.1500884310781" y="0" width="81.94818710483128" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.0982755359094" y="0" width="28.522516439044495" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="413.6207919749539" y="0" width="20.209791215940875" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="433.83058319089474" y="0" width="14.139299013696041" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="447.9698822045908" y="0" width="7.971548110351868" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.9414303149427" y="0" width="4.058569685057354" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1429,6 +1429,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#13770 Cannot train automodel with tensor parallel</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">NVIDIA/NeMo</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1505,26 +1522,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">leoleoasd/homepage</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aeac759</div>
-                                        <div class="message">update papers</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1566,7 +1563,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 May 2025, 11:07:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2025, 12:08:41 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
