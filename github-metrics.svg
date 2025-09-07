@@ -321,14 +321,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.03261531247574" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="205.03261531247574" y="0" width="98.10230568983194" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="303.1349210023077" y="0" width="81.9671020719134" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.1020230742211" y="0" width="28.521089379469217" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="413.6231124536903" y="0" width="20.208780064763847" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="433.83189251845414" y="0" width="14.138591585861322" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="447.97048410431546" y="0" width="7.971149271978509" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.94163337629396" y="0" width="4.05836662370604" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.0325028742195" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="205.0325028742195" y="0" width="98.1022518913074" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="303.1347547655269" y="0" width="81.96730938214925" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.1020641476762" y="0" width="28.521073738730543" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="413.62313788640677" y="0" width="20.20876898242952" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="433.83190686883626" y="0" width="14.138583832370099" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="447.97049070120636" y="0" width="7.97114490066362" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.94163560186996" y="0" width="4.058364398130047" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1443,6 +1443,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#effe137</div>
+                                        <div class="message">update scholar</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">leoleoasd/homepage</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#5f2543c</div>
                                         <div class="message">update scholar</div>
                                     </div>
@@ -1509,26 +1529,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">leoleoasd/homepage</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#06bffea</div>
-                                        <div class="message">update scholar</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1570,7 +1570,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Sept 2025, 11:06:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Sept 2025, 12:07:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
